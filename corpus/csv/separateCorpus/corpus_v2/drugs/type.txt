@@ -1,0 +1,16 @@
+13976,Tab
+1281,Cap
+321,Syp
+155,
+90,Saline
+74,Oint
+72,Cream
+13,Inj
+12,Nasal Drop
+11,Suppos
+8,Spray
+4,Shampoo
+3,Inhaler
+2,Gel
+2,=
+1,Drops

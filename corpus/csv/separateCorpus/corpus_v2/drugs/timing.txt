@@ -1,0 +1,7 @@
+11012,meal
+7322,After
+4286,Before
+692,sleep
+96,During
+1,starvation
+1,On
